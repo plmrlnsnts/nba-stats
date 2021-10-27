@@ -1,0 +1,14 @@
+{
+    "require": {
+        "openlss/lib-array2xml": "^1.0",
+        "tightenco/collect": "^6.0"
+    },
+    "autoload": {
+        "files": [
+            "include/utils.php"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
