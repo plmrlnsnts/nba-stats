@@ -3,7 +3,7 @@
 You should have a PHP 7.1+ installed in your machine to run the application. Clone the repository then install the dependencies using composer.
 
 ```bash
-git clone http://plmrnsntsgithub.com
+git clone git@github.com:plmrlnsnts/nba-stats.git
 cd nba-stats && composer install
 ```
 
